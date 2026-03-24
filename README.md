@@ -1,5 +1,5 @@
 # awesome-ai-kits
-A curated collection of top-tier tools, frameworks, and libraries for artificial intelligence development
+A curated collection of essential tools and utilities designed to augment and streamline your AI-powered workflow
 
 
 https://huggingface.co/
